@@ -20,7 +20,7 @@ const developer = {
   name: "Aditya Mamgain",
   role: "Full-stack developer & creative problem solver",
   location: "Dehradun, Uttarakhand",
-  currentlyBuilding: "Nountain Mate",
+  currentlyBuilding: "Mountain Mate",
   funFact: "I turn coffee into clean interfaces ☕",
 };
 ```
