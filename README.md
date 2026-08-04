@@ -13,7 +13,7 @@
 
 # 👋 Hi, I'm Aditya Mamgain
 
-## `> whoami`
+## 💻 Who Am I
 
 ```ts
 const developer = {
