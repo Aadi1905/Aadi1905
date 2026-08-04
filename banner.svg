@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="100%" stop-color="#151b38"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="500" fill="url(#bg)"/>
+
+  <circle cx="1350" cy="120" r="140" fill="#8b5cf6" opacity="0.10"/>
+  <circle cx="1450" cy="350" r="180" fill="#22d3ee" opacity="0.08"/>
+  <circle cx="250" cy="420" r="130" fill="#8b5cf6" opacity="0.06"/>
+
+  <g opacity="0.10" stroke="#22d3ee" stroke-width="2">
+    <path d="M0 430 Q300 350 600 430 T1200 430 T1600 420" fill="none"/>
+    <path d="M0 390 Q350 310 700 390 T1400 390 T1600 380" fill="none"/>
+  </g>
+
+  <text x="110" y="195"
+        font-family="Segoe UI, Arial, Helvetica, sans-serif"
+        font-size="66"
+        font-weight="700"
+        fill="#ffffff">
+        &lt;Aadi1905/&gt;
+  </text>
+
+  <rect x="110" y="220" width="360" height="5" rx="3"
+        fill="url(#accent)" filter="url(#glow)"/>
+
+  <text x="110" y="285"
+        font-family="Segoe UI, Arial, Helvetica, sans-serif"
+        font-size="34"
+        fill="#d1d5db">
+        Full-Stack Developer • UI/UX • Open Source
+  </text>
+
+  <text x="110" y="340"
+        font-family="Consolas, monospace"
+        font-size="26"
+        fill="#22d3ee">
+        const build = () =&gt; "Fast • Clean • Scalable";
+  </text>
+
+  <g transform="translate(1180 135)">
+      <rect x="0" y="0" width="240" height="240" rx="24"
+            fill="none" stroke="url(#accent)" stroke-width="4"/>
+      <path d="M60 80 L120 140 L180 70"
+            fill="none"
+            stroke="#22d3ee"
+            stroke-width="8"
+            stroke-linecap="round"
+            stroke-linejoin="round"/>
+      <path d="M60 170 H180"
+            stroke="#8b5cf6"
+            stroke-width="8"
+            stroke-linecap="round"/>
+  </g>
+</svg>
