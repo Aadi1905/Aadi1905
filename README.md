@@ -15,15 +15,10 @@
 
 ## 💻 Who Am I
 
-```ts
-const developer = {
-  name: "Aditya Mamgain",
-  role: "Full-Stack Developer & Creative Problem Solver",
-  location: "Dehradun, Uttarakhand",
-  currentlyBuilding: "Mountain Mate",
-  funFact: "I turn coffee into clean interfaces ☕",
-};
-```
+- 👨‍💻 Full-Stack Developer
+- 📍 Dehradun, Uttarakhand
+- 🚀 Currently building Mountain Mate
+- ☕ I turn coffee into clean interfaces
 
 I build thoughtful web experiences that are fast, accessible, and a little bit delightful.
 When I'm not shipping code, you'll find me learning, experimenting, and building projects that solve real problems.
