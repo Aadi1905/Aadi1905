@@ -29,7 +29,7 @@ When I'm not shipping code, you'll find me learning, experimenting, and building
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,python,html,css,tailwind,git,github,vscode&perline=14"
+    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,python,html,css,tailwind,git,github,vscode&perline=20"
     alt="Tech Stack"
   />
 </p>
