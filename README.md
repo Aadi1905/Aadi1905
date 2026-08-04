@@ -27,8 +27,11 @@ When I'm not shipping code, you'll find me learning, experimenting, and building
 
 ## 🚀 Tech I Enjoy Using
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,python,html,css,tailwind,git,github,vscode&perline=7" />
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,python,html,css,tailwind,git,github,vscode&perline=14"
+    alt="Tech Stack"
+  />
 </p>
 
 ---
@@ -40,23 +43,23 @@ When I'm not shipping code, you'll find me learning, experimenting, and building
 
 <td width="50%" valign="top">
 
-### 🏔 Mountain Mate
+### IPC-Benchmarking-Framework
 
-A travel platform focused on Uttarakhand with verified stays, reliable rides, and seamless booking experience.
+IPC Benchmarking Framework A dependency-free web app that simulates common inter-process communication (IPC) mechanisms and reports average latency and throughput.
 
 **Repository:**  
-https://github.com/Aadi1905/Mountain-Mate
+https://github.com/Aadi1905/IPC-Benchmarking-Framework
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚡ Project Two
+### ⚡ Blockchain-based-E-VOTING-System
 
-A one-line description of your second best project.
+SecureVote Starter Flask application for a secure-voting prototype.
 
 **Repository:**  
-https://github.com/Aadi1905/PROJECT_TWO
+https://github.com/Aadi1905/Blockchain-based-E-VOTING-System
 
 </td>
 
